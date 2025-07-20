@@ -10,13 +10,14 @@ In Project directory two separate modules have been created:
     -multiprocess
 ---
 
-**#Features**
+## **#Features**
 
 - Thread-based communication in a single JVM
 - Socket-based communication between separate JVM processes
 - Runnable via simple shell scripts
 
-**#Steps-to-run**  
+## **#Steps-to-run**  
+
 1- Unzip the file  
 2- Open gitbash terminal and go to the project folder  
 `ex-/c/Users/Patel-Ji/player-communication-system`  
