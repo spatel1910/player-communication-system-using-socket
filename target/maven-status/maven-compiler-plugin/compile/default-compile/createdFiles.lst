@@ -1,0 +1,11 @@
+com\player\common\MessageExchange.class
+com\player\common\MessageHandlerImpl.class
+com\player\singleprocess\SingleProcessMain.class
+com\player\common\Player.class
+com\player\common\MessageCoordinator.class
+com\player\common\MessageHandler.class
+com\player\multiprocess\ServerMain.class
+com\player\common\Message.class
+com\player\multiprocess\ClientMain.class
+com\player\singleprocess\SingleProcessMessageExchange.class
+com\player\multiprocess\SocketMessageExchange.class

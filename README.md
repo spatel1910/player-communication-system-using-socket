@@ -1,0 +1,24 @@
+# Player Communication System
+
+This system enables communication between `Player` instances via two modes:
+
+- Single-Process Mode: Players communicate using threads and `BlockingQueue`.
+- Multi-Process Mode:Players run in separate JVMs and communicate using simple sockets.
+
+2 separate modules have been created:
+    -singleprocess
+    -multiprocess
+---
+
+**#Features**
+
+- Thread-based communication in a single JVM
+- Socket-based communication between separate JVM processes
+- Runnable via simple shell scripts
+
+**#Steps-to-run**
+1- Unzip the file 
+2-Open gitbash terminal and go to the project folder 
+
+---
+
