@@ -5,8 +5,8 @@ This system enables communication between `Player` instances via two modes:
 - Single-Process Mode: Players communicate using threads and `BlockingQueue`.
 - Multi-Process Mode:Players run in separate JVMs and communicate using simple sockets.
 
-In Project directory two separate modules have been created:
-    -singleprocess
+In Project directory two separate modules have been created:  
+    -singleprocess  
     -multiprocess
 ---
 
